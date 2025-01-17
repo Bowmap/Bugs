@@ -1,2 +1,2 @@
 # Bugs
-Submit Bowmap Bug Reports.
+Submit Bowmap Bug Reports and Feature Requests and such.
